@@ -1,5 +1,6 @@
 #include <stdio.h>
-
+int CFILE;
+export CFILE=0-main.c ; ./0-preprocessor
 
  * main - Entry point
  *
