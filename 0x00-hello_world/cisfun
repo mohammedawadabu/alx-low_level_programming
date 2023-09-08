@@ -1,0 +1,6 @@
+#include <stido.h>
+int $CFILE;
+int main(void)
+{
+    return (0);
+    }
