@@ -1,4 +1,4 @@
-x#include <stdio.h>
+#include <stdio.h>
 
 /**
  * main - Entry point
@@ -7,5 +7,5 @@ x#include <stdio.h>
  */
 int main(void)
 {
-    return (0);
+  return (0);
 }
