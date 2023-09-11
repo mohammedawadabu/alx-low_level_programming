@@ -5,8 +5,9 @@
  *
  * Return: Always 0 (Success)
  */
-int main(void)
-  int $CFILE;
+main(void)
+int $CFILE;
 {
   return (0);
-}z
+}
+
