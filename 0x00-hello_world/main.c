@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-int  $CFILE;
+char;x  
 main(void)
 {
   return (0);
